@@ -1,10 +1,6 @@
 namespace DodgerGameManager.Models;
 
-/// <summary>
 /// Represents a single game session with detailed statistics
-/// Demonstrates: Complex data structures and relationships
-/// Learning Outcome: Creating Records and Data Structures
-/// </summary>
 public class GameSession
 {
     public int SessionId { get; set; }

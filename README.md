@@ -1,4 +1,4 @@
-#Please navigate to backend Folder for Backend Project
+# Please navigate to backend Folder for Backend Project
 
 # High-Score Dodger Game
 

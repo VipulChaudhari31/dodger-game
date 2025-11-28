@@ -1,10 +1,6 @@
 namespace DodgerGameManager.Models;
 
-/// <summary>
-/// Represents obstacles (meteors) in the game
-/// Demonstrates: Game entity modeling
-/// Learning Outcome: Creating Records and Data Structures
-/// </summary>
+// Represents obstacles (meteors) in the game
 public record Obstacle
 {
     public int ObstacleId { get; init; }

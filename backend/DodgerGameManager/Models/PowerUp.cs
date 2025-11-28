@@ -1,10 +1,6 @@
 namespace DodgerGameManager.Models;
 
-/// <summary>
-/// Represents power-ups that players can collect in the game
-/// Demonstrates: Game item management
-/// Learning Outcome: Creating Records and Data Structures
-/// </summary>
+// Represents power-ups that players can collect in the game
 public class PowerUp
 {
     public int PowerUpId { get; set; }

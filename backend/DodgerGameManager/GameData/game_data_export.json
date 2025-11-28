@@ -1,0 +1,28 @@
+{
+  "ExportDate": "2025-11-28T04:51:45.971797+00:00",
+  "Players": [
+    {
+      "PlayerId": 1,
+      "PlayerName": "DEF",
+      "TotalGamesPlayed": 0,
+      "HighestScore": 356,
+      "TotalScore": 0,
+      "DateRegistered": "2025-11-28T04:51:29.7815973+00:00",
+      "LastPlayed": "2025-11-28T04:48:41.6416369+00:00",
+      "Rank": "Beginner"
+    },
+    {
+      "PlayerId": 2,
+      "PlayerName": "trhtn",
+      "TotalGamesPlayed": 0,
+      "HighestScore": 0,
+      "TotalScore": 0,
+      "DateRegistered": "2025-11-28T04:51:29.7817487+00:00",
+      "LastPlayed": "2025-11-28T04:49:50.3821193+00:00",
+      "Rank": "Beginner"
+    }
+  ],
+  "GameSessions": [],
+  "Obstacles": [],
+  "PowerUps": []
+}
